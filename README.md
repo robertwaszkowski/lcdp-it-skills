@@ -8,26 +8,26 @@
 The data (CSV) describes the following aspects of each low-code development platform:
 
 * Requirements documentation
-**  Workflow model
-**  Database model
-  UI model
-  Validations
-  Application logic
+    * Workflow model
+    * Database model
+    * UI model
+    * Validations
+    * Application logic
   
 * Design and development
-  Workflow design and development
-  Database design
-  Fetching data
-  GUI design and development
-  Data validation development
-  Actions design and development
-  Programming
+    * Workflow design and development
+    * Database design
+    * Fetching data
+    * GUI design and development
+    * Data validation development
+    * Actions design and development
+    * Programming
 
 * Implementation
-  Runtime server installation
-  Database installation
-  Client module installation
-  Deployment
-  Version control
+    * Runtime server installation
+    * Database installation
+    * Client module installation
+    * Deployment
+    * Version control
 
 Each platform has its own strengths and weaknesses in terms of the keywords listed in the "Keywords - IT skills required" column. For example, Mendix requires familiarity with Java, JavaScript, SQL/OQL, and relational databases, while Zoho Creator requires familiarity with Scripts (Deluge) and HTML.
