@@ -1,1 +1,5 @@
-# lcdp-it-skills
+## lcdp-it-skills
+
+# Demystifying Democratization: A Comparative Analysis of IT Skill Requirements in Low-Code Development Platforms
+
+**Abstract:** Low-code development platforms (LCDPs) promise to democratize application development by enabling citizen developers with minimal coding experience to build functional applications. This paper presents a comparative analysis of several LCDPs, focusing on the level of IT skills required for successful application creation within each platform. The analysis explores the specific IT technologies utilized by each LCDP and how these technologies impact the level of technical expertise needed for development. By comparing the platforms' functionalities and underlying technologies, this study aims to identify LCDPs that offer the most user-friendly development experience with the least reliance on extensive IT knowledge. This research provides valuable insights for both citizen developers seeking accessible platforms and organizations evaluating LCDPs for streamlining their application development processes.
