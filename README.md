@@ -13,7 +13,8 @@ The data (CSV) describes the following aspects of each low-code development plat
   UI model
   Validations
   Application logic
-Design and development
+  
+* Design and development
   Workflow design and development
   Database design
   Fetching data
@@ -21,7 +22,8 @@ Design and development
   Data validation development
   Actions design and development
   Programming
-Implementation
+
+* Implementation
   Runtime server installation
   Database installation
   Client module installation
