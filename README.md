@@ -161,6 +161,35 @@ However, low-code platforms are designed to bridge this gap by offering solution
 
 For instance, under Zoho Creator's "UI model" section, we see "+ Screen templates / Zoho - Pre-built Apps". This signifies that Zoho Creator offers pre-built templates and components that business users can leverage to design the user interface  without needing to code from scratch.
 
+The data table we examined offers valuable insights into the skills required for various aspects of low-code development platforms (LCDPs). While "+" signs highlight features designed for users with minimal coding experience, a closer look reveals lingering skill gaps that still necessitate IT expertise.
+
+Here's how the table itself points to these gaps:
+
+* **Missing Business-Friendly Solutions**: While most platforms offer pre-built UI components (e.g., Zoho Creator - "+ Screen templates / Zoho - Pre-built Apps"), some lack similar solutions for data fetching or database design. This suggests these areas might require more technical knowledge, potentially involving SQL queries or database modeling (e.g., Mendix - "Fetching data" has no "+" sign).
+* **Emphasis on Technical Skills**: Several sections across all platforms highlight the need for technical skills like JavaScript, Java, and relational databases (e.g., Mendix - "Application logic," "Design and development"). This indicates that for complex application logic or custom functionalities, IT specialists with programming expertise are likely needed.
+Advanced Deployment Options: While some platforms offer user-friendly deployment options like SaaS (e.g., MS PowerApps - "+ Software as a Service"), others mention technical aspects like Docker or Kubernetes (e.g., Mendix - "Deployment"). Navigating these could necessitate IT involvement for a smooth deployment process.
+
+It's important to remember that the "+" sign is a relative indicator. While it highlights features designed for business users, some level of technical understanding might still be necessary to utilize them effectively.  For instance, a platform might offer a pre-built connector (+"Sign in with Google"), but configuring it for a specific use case could require knowledge of authentication protocols (e.g., OAuth).
+
+Low-code development platforms (LCDPs) have undeniably democratized application creation. The data table we examined serves as a testament to this, highlighting features marked with "+" signs that cater to users with minimal coding experience.  These user-friendly functionalities empower a new breed of citizen developers – business users who can actively contribute to building applications.
+
+However, despite the progress, the data table also reveals limitations. The absence of "+" signs in certain sections (e.g., data fetching, complex logic development) suggests that for now, LCDPs  don't enable citizen developers to  build entire applications independently.  Technical expertise  remains necessary, particularly for tasks requiring knowledge of APIs, data modeling, or complex programming.
+
+This highlights the current state of LCDPs: a bridge between traditional IT-driven development and a future powered by citizen developers.  As these platforms evolve, we can expect further advancements that simplify technical aspects and empower citizen developers to handle a broader range of tasks.  The future might see the data table filled with "+" signs, signifying a true low-code environment where citizen developers can build entire applications without extensive IT intervention.
+
+In essence, LCDPs are on a trajectory towards enabling citizen development, but the destination – a completely code-free application creation by business users –  might not be quite within reach yet. The data table serves as a roadmap, showcasing the progress made and hinting at the exciting possibilities that lie ahead for low-code development.
+
+
+## Conclusions
+
+In conclusion, low-code development platforms represent a significant shift in the realm of application development. Traditionally, building software solutions required a dedicated team of IT professionals with specialized skillsets. Low-code platforms disrupt this paradigm by offering a development environment that caters to both business and IT users. This empowers a wider range of individuals to contribute to the creation of software, fostering collaboration and accelerating development lifecycles.
+
+The "+" sign throughout the data table presented in the paper acts as a roadmap, highlighting features specifically designed to aid business users with minimal coding experience. These user-friendly functionalities allow business stakeholders to participate actively in the development process, ensuring that the final product aligns closely with real-world business needs. This collaborative approach bridges the gap between technical capabilities and business requirements, leading to applications that are more user-centric and solve real problems.
+
+The data table underscores the value of LCDPs in democratizing application development. However, it also reveals lingering skill gaps that necessitate IT involvement.  These gaps highlight the importance of a collaborative approach where business users leverage the platform's user-friendly features,  and IT specialists  bridge the technical divide to ensure application security, scalability, and successful development.
+
+As low-code technology continues to mature, we can expect even more user-friendly features and drag-and-drop functionalities. This will further democratize application development, empowering a broader range of users – from marketing specialists to citizen developers – to contribute meaningfully to the software creation process. This shift has the potential to unlock a wave of innovation within organizations, allowing them to build custom applications that address specific needs and propel them ahead of the competition. While low-code platforms may not replace traditional development entirely, they offer a powerful tool for businesses seeking to bridge the IT skills gap and accelerate their digital transformation journey.
+
 Similarly, under  Mendix's "Fetching data" section, there's no "+" sign. This suggests that data fetching in Mendix might require more technical knowledge, perhaps involving SQL queries.
 
 In essence, the "+" sign highlights functionalities within the platform that cater to business users with minimal coding experience.
