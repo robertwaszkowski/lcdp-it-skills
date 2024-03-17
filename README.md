@@ -154,3 +154,13 @@ Each platform has its own strengths and weaknesses in terms of the keywords list
 |		|		|	Client module installation	|	+"Web Browser", +"Mobile App"	|
 |		|		|	Deployment	|	"On-premises Data Gateway (Web Services)", +"Software as a Service", +"App Gallery"	|
 |		|		|	Version control	|	"Custom Versioning"	|
+
+The table above highlights the intersection of business and IT skills required for low-code development platforms.  Traditionally, software development has demanded a strong IT background  with skills like Java, SQL, and database management.
+
+However, low-code platforms are designed to bridge this gap by offering solutions that empower  business users  with limited coding experience to contribute to application development. These solutions are often marked with a "+" sign in the table to indicate they are features that can be utilized by those without a strong IT background.
+
+For instance, under Zoho Creator's "UI model" section, we see "+ Screen templates / Zoho - Pre-built Apps". This signifies that Zoho Creator offers pre-built templates and components that business users can leverage to design the user interface  without needing to code from scratch.
+
+Similarly, under  Mendix's "Fetching data" section, there's no "+" sign. This suggests that data fetching in Mendix might require more technical knowledge, perhaps involving SQL queries.
+
+In essence, the "+" sign highlights functionalities within the platform that cater to business users with minimal coding experience.
