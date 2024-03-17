@@ -7,9 +7,9 @@
 
 The data (CSV) describes the following aspects of each low-code development platform:
 
-Requirements documentation
-  Workflow model
-  Database model
+* Requirements documentation
+**  Workflow model
+**  Database model
   UI model
   Validations
   Application logic
