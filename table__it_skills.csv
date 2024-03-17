@@ -1,0 +1,177 @@
+﻿Platform,Project stage,Functional scope,Source,Keywords - IT skills required
+Mendix,Requirements documentation,,https://docs.mendix.com/,
+,,Workflow model,https://docs.mendix.com/refguide/nanoflows/,"""BPMN"""
+,,Database model,https://docs.mendix.com/refguide/domain-model/,"""domain model"", ""data structure"", ""entity"", ""attribute"", ""association"", ""one-to-many"", ""many-to-many"",  ""denormalization"", ""XPath"""
+,,UI model,https://docs.mendix.com/refguide/pages/,"""boolean expressions"", ""responsive web design"", ""data types"""
+,,Validations,"https://docs.mendix.com/refguide/nanoflows/
+https://docs.mendix.com/refguide/expressions/","""transactions"", ""JavaScript"", ""string functions"", ""conditional statements"", ""arithmetic expressions"", ""boolean expressions"", ""enumerations"""
+,,Application logic,"https://docs.mendix.com/refguide/application-logic/
+https://docs.mendix.com/refguide/resources/","""sequence flow"", ""activity diagram"", ""control structures"", ""algorithms"", ""Java"", ""JavaScript"", ""SQL/OQL"", ""regular expressions"", ""data types"""
+,Design and development,,,
+,,Workflow desing and development,"https://docs.mendix.com/refguide/workflows/
+https://docs.mendix.com/refguide/workflow-engine/","""events"", ""triggers"", ""Java API"""
+,,Database design,https://docs.mendix.com/howto/data-models/,"""denormalization"", ""relational database"", ""SQL"""
+,,Fetching data,,
+,,GUI design and development,https://docs.mendix.com/howto/front-end/,"""HTML/CSS"", ""SASS (SCSS)"", ""themes"""
+,,Data validation development,https://docs.mendix.com/refguide/setting-up-data-validation/,"""conditional expressions"", ""boolean expressions"", ""domain model"""
+,,Actions design and development,https://docs.mendix.com/howto/extensibility/build-javascript-actions/,"""Java"", ""JavaScript"", ""API"""
+,,Programming,"https://docs.mendix.com/refguide/java-programming/
+https://docs.mendix.com/refguide/mobile/introduction-to-mobile-technologies/","""Eclipse"", ""Java API"", ""Java"", ""emulators Andoid iOS"", ""PWA"", ""Native Mobile App"""
+,Implementation,,,
+,,Runtime server installation,https://docs.mendix.com/refguide/runtime-server/,"""file storage"", ""database synchronization"", ""REST"", ""SOAP"", ""WSDL"", ""Swagger"", ""relational database"", ""Xpath"", ""OQL"", ""Java"", ""API"", ""HTTPS Server"""
+,,Database installation,https://docs.mendix.com/refguide/data-storage/,"""relational database"", ""file storage"""
+,,Client module installation,https://docs.mendix.com/refguide/mendix-client/,"""HTTPS server"", ""API"""
+,,Deployment,https://docs.mendix.com/developerportal/deploy/,"""Cloud services"", ""CI/CD"", ""Docker"", ""Kubernetes"""
+,,Version control,https://docs.mendix.com/refguide/version-control/,"""git"", ""code repository concept"""
+,,,,
+Outsystems,Requirements documentation,,https://success.outsystems.com/documentation/,
+,,Workflow model,https://success.outsystems.com/documentation/11/developing_an_application/use_processes_bpt/processes/,"""Custom Process Model"""
+,,Database model,"https://success.outsystems.com/documentation/11/developing_an_application/use_data/data_modeling/entity_relationships/
+???","""Entity"", ""Entity relationships"", ""Entity Diagrams"", ""primary key"", ""foreign key"", ""One-to-One"", ""One-to-Many"", ""Many-to-Many"", ""indexes"", ""data types""
+Fetching data using human language"
+,,UI model,https://success.outsystems.com/documentation/11/developing_an_application/design_ui/,"+""Screen templates"", ""Reactive Web App"", +""Human data types"", ""Variables"", ""Boolean expressions"", ""Conditional expressions"""
+,,Validations,https://success.outsystems.com/documentation/11/developing_an_application/design_ui/forms/validate_the_fields_of_a_form/,"""Boolean expressions"", ""Conditional statements"""
+,,Application logic,"https://success.outsystems.com/documentation/11/developing_an_application/implement_application_logic/actions_in_reactive_web_and_mobile_apps/
+https://success.outsystems.com/documentation/11/developing_an_application/implement_application_logic/actions_in_web_applications/","+""Graphical actions"""
+,Design and development,,,
+,,Workflow desing and development,https://success.outsystems.com/documentation/11/developing_an_application/use_processes_bpt/,"""Custom Process Model"""
+,,Database design,https://success.outsystems.com/documentation/11/developing_an_application/use_data/data_modeling/,"""relational database"", ""SQL"""
+,,Fetching data,"https://success.outsystems.com/documentation/11/developing_an_application/use_data/query_data/fetch_data_using_human_language/
+https://success.outsystems.com/documentation/11/developing_an_application/use_data/query_data/fetch_and_display_data_from_the_database_in_outsystems/
+https://success.outsystems.com/documentation/11/developing_an_application/use_data/query_data/sql_queries/","+""Human language"", +""GUI queries"", ""SQL queries"""
+,,GUI design and development,https://success.outsystems.com/documentation/11/developing_an_application/design_ui/,"""CSS"", ""grid"", ""Style Classes"", ""Responsive Web Design"", ""IT Data types"", ""Responsive breakpoints"", ""Reactive Web App"", ""Event propagation"", ""Master Detail"", ""Programming Functions"", ""HTML"""
+,,Data validation development,https://success.outsystems.com/documentation/11/developing_an_application/design_ui/forms/validate_the_fields_of_a_form/,"""Conditional Expressions"", ""Boolean Expressions"", ""Data fields"", ""Entity"""
+,,Actions design and development,"https://success.outsystems.com/documentation/11/developing_an_application/implement_application_logic/code_mentor_logic_suggestions/
+https://success.outsystems.com/documentation/11/reference/outsystems_language/logic/expressions/","+""AI Assisted Development"", ""Expressions"", ""JavaScript"", ""REST"", ""SOAP"""
+,,Programming,https://success.outsystems.com/documentation/11/extensibility_and_integration/extend_logic_with_your_own_code/,""".NET"", ""+Visual programming"", ""HTML DOM"", ""Iteration Statements"", ""Conditional Statements"""
+,Implementation,,,
+,,Runtime server installation,https://success.outsystems.com/documentation/11/setup_and_maintain_your_outsystems_infrastructure/setting_up_outsystems/,"""Deployment Controller Service"", ""Deployment Service"", ""Scheduler Service"", ""Compiler Service"", ""Log Service"", ""HTTPS Server"", ""Shared Libraries"", ""Load Balancing"""
+,,Database installation,https://success.outsystems.com/documentation/11/setup_and_maintain_your_outsystems_infrastructure/setting_up_outsystems/default_platform_server_and_database_configurations/,"""relational database"", ""file storage"""
+,,Client module installation,https://success.outsystems.com/documentation/11/setup_and_maintain_your_outsystems_infrastructure/setting_up_outsystems/,"""Binaries"", "".NET Framework"""
+,,Deployment,https://success.outsystems.com/documentation/11/managing_the_applications_lifecycle/deploy_applications/,"""Cloud Computing"", ""CI/CD"", ""URL"", ""REST API"", ""SOAP"""
+,,Version control,https://success.outsystems.com/documentation/11/managing_the_applications_lifecycle/deploy_applications/tag_a_version/,"""Custom Version Control"""
+,,,,
+Zoho Creator,Requirements documentation,,https://help.zoho.com/portal/en/kb/creator/developer-guide/,
+,,Workflow model,https://help.zoho.com/portal/en/kb/creator/developer-guide/workflows/understand-workflows/articles/understand-workflows,"""Custom Process Model"""
+,,Database model,"https://help.zoho.com/portal/en/kb/creator/developer-guide/forms/add-and-manage-fields/articles/fields-lookup-relationship-between-forms
+https://help.zoho.com/portal/en/kb/creator/developer-guide/application-settings/schema-builder/articles/understand-schema-builder
+https://help.zoho.com/portal/en/kb/creator/developer-guide/forms/add-and-manage-fields/articles/understand-fields#Types_of_fields","""Entity relationships"", +""Form-based Data"", ""Entity"", ""Entity Diagrams"", ""One-to-One"", ""One-to-Many"", ""Many-to-Many"", +""Business data types"""
+,,UI model,"https://help.zoho.com/portal/en/kb/creator/developer-guide/forms/understand-forms/articles/form-component
+https://help.zoho.com/portal/en/kb/creator/pre-built-apps","+""Screen templates / Zoho - Pre-built Apps"", +""Human data types"", ""Variables"", ""Boolean expressions"", ""Conditional expressions"""
+,,Validations,https://help.zoho.com/portal/en/kb/creator/developer-guide/workflows/create-and-manage-on-validation-actions/articles/configure-deluge-script-on-validate-in-form-workflows,"""Scripts (Deluge)"", ""Boolean expressions"", ""Conditional statements"""
+,,Application logic,https://help.zoho.com/portal/en/kb/creator/developer-guide/microservices,"""Microservices"", "
+,Design and development,,,
+,,Workflow desing and development,https://help.zoho.com/portal/en/kb/creator/developer-guide/workflows,"""Custom Process Model"""
+,,Database design,https://help.zoho.com/portal/en/kb/creator/developer-guide/application-settings/schema-builder/articles/understand-schema-builder,"+""Custom database model"", ""Entity Diagrams"", ""One-to-One"", ""One-to-Many"", ""Many-to-Many"", +""Business data types"""
+,,Fetching data,"https://help.zoho.com/portal/en/kb/creator/developer-guide/forms/understand-forms/articles/form-component#45_Types_of_Forms_in_Creator
+https://help.zoho.com/portal/en/kb/creator/developer-guide/microservices/datasources/articles/manage-datasources
+https://help.zoho.com/portal/en/kb/creator/developer-guide/microservices/understand-connections/articles/create-custom-connector","""REST API (Custom Connectors)"", ""OAuth"", ""URL"", ""Cloud service"", ""Local storage"", +""Integrated Data Sources"""
+,,GUI design and development,"https://help.zoho.com/portal/en/kb/creator/developer-guide/pages/snippets/articles/understand-snippets
+https://help.zoho.com/portal/en/kb/creator/developer-guide/pages/page-script-and-variables/articles/page-scripts-and-variable#4_Page_scripts_and_variables_in_Creator","+""WYSIWYG"", ""Snippets"", ""Scripts"", ""Variables"", ""IT Data types"", ""Programming Functions"", ""HTML"", +""GUI Style Editor"" "
+,,Data validation development,https://help.zoho.com/portal/en/kb/creator/developer-guide/workflows/create-and-manage-on-validation-actions/articles/configure-deluge-script-on-validate-in-form-workflows,"""Scripts (Deluge)"", ""Boolean expressions"", ""Conditional statements"""
+,,Actions design and development,"https://help.zoho.com/portal/en/kb/creator/developer-guide/workflows/create-and-manage-on-user-input-actions/articles/configure-deluge-script-on-user-input-in-form-workflows
+https://help.zoho.com/portal/en/kb/creator/developer-guide/reports/customize-report/articles/create-custom-action","+""Built-in Connectors"", ""REST API"", ""Scripts (Deluge)"", ""Expressions"",  ""Conditional statements"""
+,,Programming,"https://www.zoho.com/deluge/help/
+https://help.zoho.com/portal/en/kb/creator/developer-guide/pages/snippets/articles/understand-zml-snippet
+https://help.zoho.com/portal/en/kb/creator/developer-guide/application-settings/application-ide/articles/view-and-modify-application-ide","""Scripts (Deluge)"", ""Snippets (ZML)"", ""HTML"", ""IDE"", ""Markup Language"", ""Boolean statements"", ""Iteration Statements"", ""Conditional Statements"""
+,Implementation,,,
+,,Runtime server installation,https://www.zoho.com/creator/help/on-premise/installation.html,"""SAML Authentication"", ""Email Server (SMTP)"", ""Proxy server"", ""SSL certificates"""
+,,Database installation,https://www.zoho.com/creator/help/on-premise/installation.html,"+""Embedded Database (Postgres)"", ""Relational database"""
+,,Client module installation,https://www.zoho.com/creator/help/on-premise/installation.html,"""Binaries"", ""URL configuration"""
+,,Deployment,https://www.zoho.com/creator/help/on-premise/import-app-from-cloud.html,"""Cloud Computing"", ""On-Premise"", ""Application IDE"", ""Import/Export"", ""Scripts"""
+,,Version control,https://help.zoho.com/portal/en/kb/creator/developer-guide/environments/articles/version-history,"""Custom Version Control"""
+,,,,
+MS Power App,Requirements documentation,,https://learn.microsoft.com/en-us/power-apps/,
+,,Workflow model,https://learn.microsoft.com/en-us/power-apps/maker/data-platform/overview-realtime-workflows,"""Custom Process Model"""
+,,Database model,https://learn.microsoft.com/en-us/power-apps/developer/data-platform/reference/about-entity-reference,"""Entity relationships"", ""Entity"", +""Predefined Entities"", ""One-to-One"", ""One-to-Many"", ""Many-to-Many"""
+,,UI model,"https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/model-driven-app-overview
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-responsive-layout","""Model-driven apps"", +""Screen templates / Sample Power Apps"", ""Responsive Web Design"""
+,,Validations,https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-create-business-rule,"""Boolean expressions"", ""Conditional statements"", +""Business Rules (graphical)"""
+,,Application logic,"https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/working-with-formulas
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/power-apps-ideas","""Formulas"", ""Variables"", +""Power Fx - an Open-source programming language for low-code"", +""NLP"", ""Boolean expressions"", ""Conditional expressions"""
+,Design and development,,,
+,,Workflow desing and development,https://learn.microsoft.com/en-us/power-automate/business-process-flows-overview,"""Custom Process Model (Business Process Flows)"""
+,,Database design,https://learn.microsoft.com/en-us/power-apps/maker/data-platform/,"""Web API (Microsoft Dataverse)"", ""Types"", ""Functions"", ""Actions"", ""One-to-One"", ""One-to-Many"", ""Many-to-Many"", +""Business data types"""
+,,Fetching data,"https://learn.microsoft.com/en-us/power-apps/developer/data-platform/webapi/reference/about?view=dataverse-latest
+https://learn.microsoft.com/en-us/power-apps/developer/data-platform/webapi/reference/queryfunctions?view=dataverse-latest
+https://learn.microsoft.com/en-us/power-apps/developer/data-platform/work-with-data
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/data-platform-create-app-scratch","""Web API (Microsoft Dataverse)"", ""SDK"", "".NET"", ""SQL (Azure SQL Database)"", ""Custom Query language (Power Query M formula)"", ""Formulas"""
+,,GUI design and development,"https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-conversations-create-app
+https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-edit-app#whats-supported:~:text=Templatized%20formulas
+https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/customize-entity-forms","+ AI Support (Copilot - Build apps through conversation)"", +""Templatized formulas"", ""IT Data types"", ""Programming Functions"", ""XML"", ""JavaScript"""
+,,Data validation development,"https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro
+https://learn.microsoft.com/en-us/power-apps/maker/data-platform/overview-realtime-workflows","""Boolean expressions"", ""Conditional statements"", +""Business Rules (graphical)"""
+,,Actions design and development,https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/client-scripting,"""API"", ""JavaScript"", ""Expressions"",  ""Conditional statements"", ""Object Model"""
+,,Programming,"https://learn.microsoft.com/en-us/dotnet/api/microsoft.crm.sdk?view=dataverse-sdk-latest
+https://learn.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript?tabs=before","""SDK"", "".NET"", ""Web API"", ""Entity Types"", ""Actions"", ""Functions"", ""Query Functions"", ""Complex types"", ""EnumTypes"", ""Metadata"", ""TypeScript"", ""IDE (Visual Studio Code)"", ""node.js"", ""CLI (Microsoft Power Platform CLI"", ""Boolean statements"", ""Iteration Statements"", ""Conditional Statements"""
+,Implementation,,https://learn.microsoft.com/en-us/power-apps/powerapps-overview,
+,,Runtime server installation,https://learn.microsoft.com/en-us/power-platform/admin/environments-overview,"""Cloud Based Environment"""
+,,Database installation,https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/gateway-reference,"+""Embedded Database (Microsoft Dataverse)"", ""Relational database (MS SQL Server)"""
+,,Client module installation,https://learn.microsoft.com/en-us/power-apps/limits-and-config,"+""Web Browser"", +""Mobile App"", ""Web Services"""
+,,Deployment,https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/gateway-reference,"""On-premises Data Gateway"", +""Software as a Service"""
+,,Version control,https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/git-version-control,"""git"", ""code repository concept"""
+,,,,
+Google AppSheet,Requirements documentation,,"https://about.appsheet.com/home/
+https://support.google.com/appsheet#topic=11981018",
+,,Workflow model,https://support.google.com/appsheet/topic/11998887,"""Custom Process Model"""
+,,Database model,"https://support.google.com/appsheet/topic/10099793
+https://support.google.com/appsheet/topic/10099317","""Entity relationships"", ""Entity"", +""Item-Detail"", +""Lookup/Drop-down"", ""Expressions"", ""Enumeration"", ""Data Types"", ""Constraints"", ""Conditional statements"""
+,,UI model,"https://www.appsheet.com/templates
+https://support.google.com/appsheet/topic/10101309","+""App templates"", +""View Types"", +""UI Branding (no HTML/CSS)"", ""Conditional statements"", ""Expressions"", ""Functions"""
+,,Validations,"https://support.google.com/appsheet/answer/10107949
+https://support.google.com/appsheet/answer/10099318","""Boolean expressions"", ""Conditional statements"", +""Lookup/Drop-down data patterns"""
+,,Application logic,"https://support.google.com/appsheet/topic/11511235
+https://support.google.com/appsheet/answer/10107706
+https://support.google.com/appsheet/topic/11496219
+https://support.google.com/appsheet/topic/11998887","+""Actions"", ""Functions"", ""Expressions"", ""Events"", +""Predefined process steps"", +""Predefined tasks"", ""Formulas"", ""Variables"", ""Boolean expressions"", ""Conditional expressions"""
+,Design and development,,,
+,,Workflow desing and development,https://support.google.com/appsheet/topic/11998887,"""Custom Process Model (AppSheet Automation)"", ""REST API"", ""JavaScript"", ""Condition Expressions"""
+,,Database design,"https://support.google.com/appsheet/topic/10099793
+https://support.google.com/appsheet/answer/10099523
+https://support.google.com/appsheet/answer/12065898
+https://support.google.com/appsheet/answer/10106509","""Relational Database concept"", +""Reference Column"", +""Lookup Column"", ""Keys"", ""Types"", ""Expressions (App Formula Expression, Initial Value Expression)"", ""Functions (Deep Link)"", +""References"", +""Slices (Subset od data, columns and actions)"", +""Business data types"", ""Conditional Expressions"""
+,,Fetching data,"https://support.google.com/appsheet/answer/10104707
+https://developers.google.com/apps-script/guides/jdbc
+https://support.google.com/appsheet/answer/10106309","""Web API"", +""Cloud-based Spreadsheets"", ""SQL Databases"". ""JDBC"", ""Data source integration"""
+,,GUI design and development,"https://support.google.com/appsheet/answer/10106772
+https://support.google.com/appsheet/topic/10102631
+https://support.google.com/appsheet/answer/10106435","+""View Types"", +""UI Branding"", +""Conditional Formatting"", +""Business Data types"""
+,,Data validation development,https://support.google.com/appsheet/topic/10104641,"""Boolean expressions"", ""Conditional statements"", +""Column Expressions"""
+,,Actions design and development,https://support.google.com/appsheet/topic/11998887,"+""Automations"", ""Expressions"", ""Functions"", ""Conditional statements"""
+,,Programming,"https://developers.google.com/apps-script/overview
+https://support.google.com/appsheet/answer/11511244
+https://support.google.com/appsheet/answer/11445188
+https://support.google.com/appsheet/table/10104782
+https://support.google.com/appsheet/answer/10104642","""JavaScript"", ""Web API (AppSheet API)"", ""HTML"", ""JSON"", ""XML"", ""Functions"", ""Boolean statements"", ""Conditional Statements"", ""Expressions"""
+,Implementation,,,
+,,Runtime server installation,https://support.google.com/appsheet/answer/10104495,"+""Cloud Based Environment"", ""Mobile App"""
+,,Database installation,"https://support.google.com/appsheet/answer/10104707
+https://support.google.com/appsheet/answer/10106597","+""Embedded Database (Spreadsheets)"", ""Relational database"", ""REST API"""
+,,Client module installation,https://support.google.com/appsheet/answer/10104707,"+""Web Browser"", +""Mobile App"""
+,,Deployment,"https://support.google.com/appsheet/topic/10104993
+https://support.google.com/appsheet/answer/10104707
+https://support.google.com/appsheet/answer/11510510","""On-premises Data Gateway (Web Services)"", +""Software as a Service"", +""App Gallery"""
+,,Version control,https://support.google.com/appsheet/topic/10104992,"""Custom Versioning"""
+,,,,
+Aurea LCDP,Requirements documentation,,https://aurea-bpm.com/,
+,,Workflow model,"https://www.tecna.pl/oferta/platforma-aurea
+https://www.tecna.pl/oferta/aurea-modeler","+""BPMN Process Model"""
+,,Database model,https://www.tecna.pl/oferta/platforma-aurea,"""Enumeration"", ""Data Types"", ""Constraints"", ""XML"""
+,,UI model,,"+""App templates (CUBBE)"", +""View Types"", ""Conditional statements"", ""Expressions"", ""Functions"""
+,,Validations,,"""Boolean expressions"", ""Conditional statements"", +""Lookup/Drop-down data patterns"""
+,,Application logic,,"+""Actions"", ""Functions"", ""Expressions"", ""Events"", +""Predefined process steps"", +""Predefined tasks"", ""Formulas"", ""Variables"", ""Boolean expressions"", ""Conditional expressions"""
+,Design and development,,,
+,,Workflow desing and development,,"+""BPMN Process Model"""
+,,Database design,,"""Relational Database concept"", +""Reference Column"", +""Lookup Column"", ""Keys"", ""Types"", ""Expressions (App Formula Expression, Initial Value Expression)"", ""Functions (Deep Link)"", +""References"", +""Slices (Subset od data, columns and actions)"", +""Business data types"", ""Conditional Expressions"""
+,,Fetching data,,"""Web API"", +""Cloud-based Spreadsheets"", ""SQL Databases"". ""JDBC"", ""Data source integration"""
+,,GUI design and development,,"+""View Types"", +""UI Branding"", +""Conditional Formatting"", +""Business Data types"""
+,,Data validation development,,"""Boolean expressions"", ""Conditional statements"", +""Column Expressions"""
+,,Actions design and development,,"+""Automations"", ""Expressions"", ""Functions"", ""Conditional statements"""
+,,Programming,,"""JavaScript"", ""Web API (AppSheet API)"", ""HTML"", ""JSON"", ""XML"", ""Functions"", ""Boolean statements"", ""Conditional Statements"", ""Expressions"""
+,Implementation,,,
+,,Runtime server installation,,"+""Cloud Based Environment"", ""Mobile App"""
+,,Database installation,,"+""Embedded Database (Spreadsheets)"", ""Relational database"", ""REST API"""
+,,Client module installation,,"+""Web Browser"", +""Mobile App"""
+,,Deployment,,"""On-premises Data Gateway (Web Services)"", +""Software as a Service"", +""App Gallery"""
+,,Version control,,"""Custom Versioning"""
