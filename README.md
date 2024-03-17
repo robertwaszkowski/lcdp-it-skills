@@ -56,7 +56,7 @@ Each platform has its own strengths and weaknesses in terms of the keywords list
 |		|		|	Version control	|	"git", "code repository concept"	|
 |	Outsystems	|	Requirements documentation	|		|		|
 |		|		|	Workflow model	|	"Custom Process Model"	|
-|		|		|	Database model	|	"Entity", "Entity relationships", "Entity Diagrams", "primary key", "foreign key", "One-to-One", "One-to-Many", "Many-to-Many", "indexes", "data types", +"Fetching data using human language"	|
+|		|		|	Database model	|	"Entity", "Entity relationships", "Entity Diagrams", "primary key", "foreign key", "One-to-One", "One-to-Many", "Many-to-Many", "indexes", "data types"	|
 |		|		|	UI model	|	+"Screen templates", "Reactive Web App", +"Human data types", "Variables", "Boolean expressions", "Conditional expressions"	|
 |		|		|	Validations	|	"Boolean expressions", "Conditional statements"	|
 |		|		|	Application logic	|	+"Graphical actions"	|
